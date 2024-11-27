@@ -1,1 +1,1 @@
-# Coding_Embedded_Systems_course
+# Embedded_Systems_Basics
